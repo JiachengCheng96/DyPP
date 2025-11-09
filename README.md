@@ -1,5 +1,5 @@
 # Dynamic Privacy-preserving (DyPP) camera
-This is the code for the camera model (optics module) in the paper: \
+This is the PyTorch implementation of the camera model (optics module) employed in the paper: \
 [Learning a Dynamic Privacy-Preserving Camera Robust to Inversion Attacks](https://link.springer.com/chapter/10.1007/978-3-031-72897-6_20). \
 Jiacheng Cheng, Xiang Dai, Jia Wan, Nick Antipa, and Nuno Vasconcelos. In ECCV 2024.
 
